@@ -106,3 +106,4 @@ venv.bak/
 credentials.json
 gsheets2txt.ini
 _*.txt
+.idea/
